@@ -1,0 +1,7 @@
+-- NAME: I GUSTI NGURAH AGUNG KRESNA
+-- STUDENT ID: 11164605
+
+
+-- Game 2, Player 4 (Norman), Rolls a 1
+INSERT INTO GameRound
+VALUES (2, 4, 1);
